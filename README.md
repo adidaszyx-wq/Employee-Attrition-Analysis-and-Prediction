@@ -29,5 +29,10 @@ This project analyzes employee attrition using HR Analytics, SQL, Python, Machin
 ## Machine Learning Model
 Random Forest Classifier
 
+## View the Live Interactive Dashboard on Tableau Public.
+https://public.tableau.com/app/profile/alok.kumar2380/viz/thefinalProjectHR1/Home
+https://public.tableau.com/app/profile/alok.kumar2380/viz/thefinalProjectHR/Dashboard2
+
+
 ## Author
 Alok Kumar
